@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCube", "RCube\RCube.csproj", "{FB01CF4C-9B2C-4FD6-82C8-A1199605C6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCubeCapture", "RCubeCapture\RCubeCapture.csproj", "{1DF2CBBB-BB27-45C0-A0BC-86CA33179772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVProxy", "OpenCVProxy\OpenCVProxy.csproj", "{34510468-83A0-405F-9BE7-664EBDB6EBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildOpenCVProxy", "BuildOpenCV\BuildOpenCVProxy.csproj", "{8319FA2C-805F-409D-AE29-0CE07267FD0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB01CF4C-9B2C-4FD6-82C8-A1199605C6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB01CF4C-9B2C-4FD6-82C8-A1199605C6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB01CF4C-9B2C-4FD6-82C8-A1199605C6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB01CF4C-9B2C-4FD6-82C8-A1199605C6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF2CBBB-BB27-45C0-A0BC-86CA33179772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF2CBBB-BB27-45C0-A0BC-86CA33179772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF2CBBB-BB27-45C0-A0BC-86CA33179772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF2CBBB-BB27-45C0-A0BC-86CA33179772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34510468-83A0-405F-9BE7-664EBDB6EBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34510468-83A0-405F-9BE7-664EBDB6EBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34510468-83A0-405F-9BE7-664EBDB6EBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34510468-83A0-405F-9BE7-664EBDB6EBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8319FA2C-805F-409D-AE29-0CE07267FD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8319FA2C-805F-409D-AE29-0CE07267FD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8319FA2C-805F-409D-AE29-0CE07267FD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
